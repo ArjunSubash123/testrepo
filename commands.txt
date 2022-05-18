@@ -1,2 +1,4 @@
 git=>for initializing git
 git status=> list all untracked files
+git reomte add name path
+git remote -v
